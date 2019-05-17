@@ -93,7 +93,7 @@ ITEM_PIPELINES = {
 
 
 # mongo 主机地址
-MONGODB_HOST = '39.106.118.34'
+MONGODB_HOST = '主机地址'
 # 端口号
 MONGODB_PORT = 27017
 # 数据库名称
